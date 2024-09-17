@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Luccarodriguezk 
-- 👀 I’m interested in heavy mathematics, computer science, and philosophy. Currently doing a double major at the University of Paris.
-- 🌱 I’m currently investing my time in AI, on Python. I am also interested in cybersecurity problems.
-- 💞️ I'm a sucker for new things, I am always looking for knowledge and would love to collaborate.
-- 📫 My email is luccarodriguezk1973@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Bolivian, love to travel, and love chess.
+ Hi, I’m Lucca Rodriguez Krsul. If you are looking to collaborate, my email is luccarodriguezk1973@gmail.com. I’m interested in heavy mathematics, computer science, and philosophy; And am Currently doing a double major at the University of Paris. I spend most of my time in AI, on Python. I am also interested in cybersecurity problems.
+I am Bolivian, love to travel, and love chess.
+
+-"it is better to be Socrates dissatisfied than a fool satisfied"- John Stuart Mill
 
 <!---
 Luccarodriguezk/Luccarodriguezk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
