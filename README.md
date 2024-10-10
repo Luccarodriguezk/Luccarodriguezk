@@ -1,4 +1,4 @@
- Hi, I’m Lucca Rodriguez Krsul. If you are looking to collaborate, my email is luccarodriguezk1973@gmail.com. I’m interested in heavy mathematics, computer science, and philosophy; And am Currently doing a double major at the University of Paris. I spend most of my time in AI, on Python. I am also interested in cybersecurity problems.
+ Hi, I’m Lucca Rodriguez Krsul. If you are looking to collaborate, my email is luccarodriguezk1973@gmail.com. I’m interested in heavy mathematics, computer science, and philosophy; I am Currently doing a double major in the former subjects at the University of Paris. I spend most of my time in ML, on Python. I am also interested in cybersecurity problems.
 I am Bolivian, love to travel, and love chess.
 
 -"it is better to be Socrates dissatisfied than a fool satisfied"- John Stuart Mill
